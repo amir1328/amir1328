@@ -1,18 +1,132 @@
-# 💫 About Me:
-# 👋 Hello World, I'm Ameer Akbar R!<br><br>🎓 Student | 💡 Innovator | 🤖 AI & AR/VR Enthusiast | 🧠 Founder of AI Nexus  <br>📍 From Tamil Nadu, India 🇮🇳<br><br>---<br><br>## 🚀 About Me<br><br>- 🔭 Currently working on **AI-integrated projects**, **AR/VR apps**, and **health-tech innovations**<br>- 🧠 Founder of **AI Nexus** – Bridging the gap in AI education & development in India<br>- 🌱 Learning deeply into: `AI`, `AR/VR`, `Robotics`, `IoT`, and `Healthcare Tech`<br>- 🤝 Actively collaborating with PSR Engineering College & other institutions<br>- 🧠 Known for: **AR visiting cards**, **health monitoring headbands**, **AI-enabled bots**, and **interactive wedding invitations**<br>- 📫 Reach me at: safi.ameerakbar28@gmail.com | 📞 +91 98947 33955<br><br>---<br><br>## ⚒️ Tech Stack<br><br>- **Languages:** `Python`, `C`, `C++`, `Java`, `JavaScript`<br>- **Web:** `HTML`, `CSS`, `Tailwind`, `Bootstrap`<br>- **Frameworks & Tools:** `TensorFlow`, `Unity`, `Vuforia`, `Tinkercad`, `Arduino`, `Blender`<br>- **Platforms:** `Windows`, `Android`, `GitHub`, `Git`, `Figma`<br><br>---<br><br>## 🧠 AI Nexus – My Startup<br><br>🚀 Udyam-registered startup empowering students and creators with AI skills.<br><br>> 🎯 Vision: To build accessible and affordable AI solutions for **India and Tamil Nadu**  <br>> 📚 Workshops, internships, and real-world projects<br><br>🌐 [Instagram: @ai.nexus.official](https://instagram.com/ai.nexus.official)<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Ameer Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerakbarr&show_icons=true&theme=radical)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerakbarr&layout=compact&theme=radical)<br><br>---<br><br>## 🔗 Connect With Me<br><br>[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ai.nexus.official)<br>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-if-any)<br>[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:safi.ameerakbar28@gmail.com)<br><br>---<br><br>> “I believe in building tech that not only innovates, but **cares for people**.”<br><br>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ameer+Akbar+R" alt="Typing SVG" />
 
+## 👨‍💻 A passionate frontend & AI developer from India
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theameerakbar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ameerakbar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safi.ameerakbar28@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amir1328&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amir1328&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amir1328&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amir1328&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 I’m currently working on:
+
+**Smart Health-based Headband Project**
+\[Link coming soon]
+
+### 👯 I’m looking to collaborate on:
+
+**AI-integrated AgriBot System**
+\[Link coming soon]
+
+### 🤝 I’m looking for help with:
+
+**Medico Snus Pouch Project**
+\[Link coming soon]
+
+### 🌱 I’m currently learning:
+
+TensorFlow | Unity | Flutter | NLP | Cloud Functions
+
+### 💬 Ask me about:
+
+React | Vue | GSAP
+
+### 📫 How to reach me:
+
+[safi.ameerakbar28@gmail.com](mailto:safi.ameerakbar28@gmail.com)
+
+### 👨‍💻 All of my projects are available at:
+
+[My Portfolio](https://amir1328.github.io/AmeerPortFolio)
+
+### 📝 I regularly write articles on:
+
+[LinkedIn](https://www.linkedin.com/in/ameer-akbar-39b288311)
+
+### 📄 Know about my experiences:
+
+[Download My Resume](https://amir1328.github.io/AmeerPortFolio/resume.pdf)
+
+### ⚡ Fun fact:
+
+I think I am funny 😄
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming Languages
+
+`C` `C++` `Python` `Java` `JavaScript`
+
+### 🌐 Frontend Development
+
+`HTML5` `CSS3` `React` `Bootstrap` `Tailwind`
+
+### 🖥️ Backend Development
+
+`Node.js` `Express.js`
+
+### 🧠 AI/ML
+
+`TensorFlow` `PyTorch` `Pandas` `NumPy` `Scikit-learn` `Keras` `OpenCV`
+
+### 🎮 AR/VR
+
+`Unity` `Vuforia` `Unreal Engine` `Blender`
+
+### 💾 Databases
+
+`MongoDB` `MySQL` `SQLite`
+
+### ☁️ Cloud
+
+`Google Cloud Platform`
+
+### 📊 Data Visualization
+
+`Matplotlib` `Power BI`
+
+### 🔧 Tools
+
+`Git` `GitHub` `Postman` `Figma`
+
+---
+
+## 📱 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00C2FF)](https://github.com/amir1328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00C2FF)](https://linkedin.com/in/ameer-akbar-39b288311)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge\&logo=leetcode\&logoColor=00C2FF)](https://leetcode.com/u/ameer1328/)
+
+---
+
+## 🏆 GitHub Stats
+
+![Ameer Akbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amir1328\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir1328\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amir1328\&theme=tokyonight)
+
+## 🏅 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amir1328\&theme=darkhub\&title=Stars,Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ☕ Support Me
+
+If you like what I do, consider buying me a coffee:
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20coffee-0D1117?style=for-the-badge\&logo=buymeacoffee\&logoColor=00C2FF)](https://buymeacoffee.com/amir1328)
+
+---
+
+<style>
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+    font-family: 'Fira Code', monospace;
+  }
+  a {
+    color: #00C2FF;
+  }
+</style>
