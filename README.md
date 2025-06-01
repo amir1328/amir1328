@@ -43,7 +43,7 @@ React | Vue | GSAP
 
 ### 📄 Know about my experiences:
 
-[Download My Resume](https://amir1328.github.io/AmeerPortFolio/resume.pdf)
+[Download My Resume](https://amir1328.github.com/amir1328/Resume.pdf)
 
 ### ⚡ Fun fact:
 
